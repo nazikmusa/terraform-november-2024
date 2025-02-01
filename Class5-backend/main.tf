@@ -10,8 +10,6 @@ resource "aws_key_pair" "deployer" {
     Team = "DevOps"
     Environment = "Dev"
     Owner = "Nazgul"
-    Team2 = "QA"
   }
-
 }
 
